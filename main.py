@@ -1,5 +1,6 @@
-import myrl
+import myrl.experiments.benchmark as benchmark
+import cfg.config as cfg
 
 if __name__ == "__main__":
-    
-    print("Hello world")
+    # myrl.benchmark(cfg.MYRL_TEST)
+    print("Holà!")
