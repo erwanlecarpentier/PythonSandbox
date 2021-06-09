@@ -1,0 +1,11 @@
+agent,environment,gamma,instance_number,episode_number,max_steps,performed_steps,return,discounted_return,time
+Q-Learning_1,TestGrid,0.9,3,1,10,10,4.0,1.8276255990000005,0.00023900000000010024
+Q-Learning_1,TestGrid,0.9,3,2,10,10,0.0,0.0,0.00024899999999972167
+Q-Learning_1,TestGrid,0.9,3,3,10,10,0.0,0.0,0.0002470000000003303
+Q-Learning_1,TestGrid,0.9,3,4,10,10,0.0,0.0,0.00019700000000000273
+Q-Learning_1,TestGrid,0.9,3,5,10,10,0.0,0.0,0.00020499999999978868
+Q-Learning_1,TestGrid,0.9,3,6,10,10,0.0,0.0,0.0001879999999996329
+Q-Learning_1,TestGrid,0.9,3,7,10,10,0.0,0.0,0.0002140000000001585
+Q-Learning_1,TestGrid,0.9,3,8,10,10,0.0,0.0,0.00021000000000004349
+Q-Learning_1,TestGrid,0.9,3,9,10,10,0.0,0.0,0.000188000000000077
+Q-Learning_1,TestGrid,0.9,3,10,10,10,0.0,0.0,0.00020100000000011775

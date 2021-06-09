@@ -1,0 +1,11 @@
+agent,environment,gamma,instance_number,episode_number,max_steps,performed_steps,return,discounted_return,time
+Random,TestGrid,0.9,2,1,10,10,0.0,0.0,8.699999999972619e-05
+Random,TestGrid,0.9,2,2,10,10,0.0,0.0,4.8000000000048004e-05
+Random,TestGrid,0.9,2,3,10,10,0.0,0.0,4.6999999999908226e-05
+Random,TestGrid,0.9,2,4,10,10,0.0,0.0,4.500000000007276e-05
+Random,TestGrid,0.9,2,5,10,10,0.0,0.0,4.599999999976845e-05
+Random,TestGrid,0.9,2,6,10,10,0.0,0.0,4.399999999993298e-05
+Random,TestGrid,0.9,2,7,10,10,0.0,0.0,4.399999999993298e-05
+Random,TestGrid,0.9,2,8,10,10,0.0,0.0,4.300000000023729e-05
+Random,TestGrid,0.9,2,9,10,10,1.0,0.3874204890000001,5.699999999997374e-05
+Random,TestGrid,0.9,2,10,10,10,0.0,0.0,7.00000000000145e-05

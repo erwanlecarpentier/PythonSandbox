@@ -1,0 +1,2 @@
+name,actions,gamma,grid_name,size,slip_probability,is_goal_terminal,y_max,x_max,walls,goals,rewards,x_init,y_init
+TestGrid,"[0, 1, 2, 3]",0.9,test,,0.05,False,3,3,"[(2, 2), (3, 2)]","[(3, 3)]","{(3, 3): 1.0}",1,1
